@@ -1,7 +1,7 @@
 /**
  * Created by nikhil on 16-Apr-16.
  */
-//prototype: add cool methods & proerties to the objects & classes
+//prototype: add cool methods & properties to the objects & classes
 
 function User(){
     this.name = ""; //this refers to whatever object is calling it

@@ -6,4 +6,4 @@
 var movies = require('./file10tut10');
 
 
-console.log("Bucky fav movie is "+ movies.favMovie);
+console.log("Bucky fav movie is "+ movies.favMovie); //null here
